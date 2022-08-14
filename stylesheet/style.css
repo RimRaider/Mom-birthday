@@ -1,0 +1,154 @@
+/* dark orange : FF8133 */
+/* light orange : ffbc69 */
+
+body{
+    background-color: #ffbc69;
+}
+
+h1{
+    font-size: 9rem;
+}
+
+em{
+    font-size: 7rem;
+}
+
+
+.home{
+    position: relative;
+}
+
+.home-text{
+    position:absolute;
+    margin-left: 1%;
+}
+
+.greet{
+    margin-top: -82.1%;
+    width: 80%;
+}
+
+.tagline{
+    display: inline-block;
+    width: 20%;
+    color:#ff8133;
+    font-size: 5rem;
+    line-height: 6.5rem;
+    padding-top: 3rem;
+    font-style: italic;
+}
+
+.bd-img{
+    display: inline-block;
+    position:relative;
+    width:100%;
+}
+
+.navbar-toggler{
+    margin-left: 95%;
+}
+
+.round{
+    border-radius: 50%;
+    margin:5% 0;
+    border: 3rem solid #ff8133;
+}
+
+.car{
+    display: inline-block;
+    width: 30%;
+}
+
+.nav-link{
+    font-size: 1.5rem;
+}
+
+.nav-link:hover{
+    color:bisque;
+}
+
+/* cooking */
+
+.center{
+    background-color: white;
+    margin: 0 auto;
+}
+
+.i{
+    font-style: italic;
+}
+
+/* amazingness */
+
+.left{
+    position: relative;
+    display: inline-block;
+    width: 40%;
+    margin: 3% 3%;
+}
+.right{
+    position: relative;
+    display: inline-block;
+    width: 40%;
+    margin: 3% 3%;
+
+}
+
+.img_size{
+    /* min-width: 30%; */
+    /* width: 40%; */
+    height: 30rem;
+    margin: auto 30%;
+    border-radius: 50%;
+ 
+}
+
+/* .red{
+    position: relative;
+    display: inline-block;
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    float:left;
+}
+
+.blue{
+    position: relative;
+    display: inline-block;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    float:right;
+} */
+
+.container{
+    height:100%;
+    align-items: center;
+}
+
+.little{
+    color: #ff8133;
+    font-style: italic;
+    display: inline-block;
+    padding: 0 10%;
+}
+
+.container2{
+    background-color: #ff8133;
+}
+.queen{
+    font-size: 6rem;
+    font-weight: 700;
+}
+
+.img-queen{
+    width:60%;
+    margin: 3% 20% 3% 20%;
+}
+
+/* health */
+
+.progress{
+    width:60%;
+    margin: 20%;
+}
